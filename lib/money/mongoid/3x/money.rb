@@ -1,5 +1,3 @@
-require 'origin-selectable_ext'
-
 module Mongoize
   extend ActiveSupport::Concern
   # See http://mongoid.org/en/mongoid/docs/upgrading.html        

@@ -4,7 +4,6 @@ gem 'money'
 gem 'mongoid',  ">= 2.4"
 gem 'origin',   '>= 1'
 gem 'moped',    '>= 1'
-gem 'origin-selectable_ext'
 gem 'sugar-high', '>= 0.7.2'
 
 # gem 'mongoid',       "~> 2.4"
